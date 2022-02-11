@@ -13,7 +13,7 @@
   "peerDependencies": {
     "graphql": "*"
   },
-  "devDependencies": {
+  "dependencies": {
     "@graphql-codegen/cli": "^2.5.0",
     "graphql-codegen-webpack-plugin": "^0.0.7"
   }
